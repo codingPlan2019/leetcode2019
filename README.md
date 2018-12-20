@@ -1,7 +1,6 @@
-# leetcode2019
+# leetcode Shedule
 
-Shedule
-## Round 1 - Due day 12/22
+### Round 1 - Due day 12/22
 
 |NO.|Title|Solution|Note|Difficulty|
 |---|-----|--------|----|----------|
@@ -18,6 +17,9 @@ Shedule
 
 
 
+
+
+----------------------------------------------------------------------------
 
 ### Searching answer for the leetcode
 https://www.jiuzhang.com/solution/
